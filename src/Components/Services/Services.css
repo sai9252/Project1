@@ -1,0 +1,71 @@
+#service {
+    height: calc(100vh - 8rem);
+    display: flex;
+    flex-direction: column;
+    padding: 80px 10px 10px 10px;
+}
+
+
+.serid {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+}
+
+.sernum {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding-top: 40px;
+
+}
+
+.sercon {
+    padding: 25px 23px 0px 23px;
+    text-align: justify;
+}
+
+.ser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 23rem;
+    width: 20rem;
+    border-radius: 0.5rem;
+    background-color: rgb(50, 50, 50);
+    padding: 10px;
+    border-bottom: 2px solid yellow;
+}
+
+.ser>div:first-child {
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: #d9d40c;
+    letter-spacing: 2px;
+    font-size: 1.2rem;
+}
+
+.ser>div:nth-child(2) {
+    height: 60%;
+}
+
+
+.ser1 {
+    border-bottom: 1px solid white;
+}
+
+
+.ser2 {
+    border-bottom: 1px solid white;
+}
+
+.ser3 {
+    border-bottom: 1px solid white;
+}

@@ -1,0 +1,46 @@
+#Home{
+    height: calc(100vh - 8rem);
+    /* width: 100vw; */
+    /* margin-top: 12rem; */
+    font-weight: bold;
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Typewriter{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+
+.intro{
+    position: absolute;
+    padding-bottom: 10rem;
+
+}
+
+/* .eng{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+.homevideo{
+    width: auto;
+    height: 100vh;
+}
+

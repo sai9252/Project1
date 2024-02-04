@@ -1,0 +1,70 @@
+#Aboutcontent{
+    height: calc(100vh - 8rem);
+    /* margin-top: 40px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    /* padding: 10px !important; */
+    /* background-image: url("../../Images/tractor1.jpg"); */
+
+}
+
+.Abouttitle{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    /* margin-top: 8rem; */
+    /* padding: 60px; */
+}
+
+.Aboutinformation{
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+    margin-top: 5rem;
+    
+}
+.Aboutinfo span{
+    display: inline-block;
+}
+
+.Aboutpic{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+}
+
+.Aboutinfo2{
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 10px;
+    color: yellow;
+}
+
+.Aboutinfo0{
+    margin-top: 10px;
+}
+
+.Aboutinfo5{
+    font-weight: bold;
+    font-size: 1.5rem;
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.65rem;
+    padding-left: 1.51rem;
+}
+
+
